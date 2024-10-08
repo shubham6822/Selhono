@@ -12,6 +12,11 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        Dmserifdisplay: ["DM Serif Display", "serif"],
+        jost: ["Jost", "sans-serif"],
+        inter: ["Inter", "sans-serif"],
+      },
     },
   },
   plugins: [],
