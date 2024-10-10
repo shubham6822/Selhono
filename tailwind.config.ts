@@ -17,6 +17,9 @@ const config: Config = {
         jost: ["Jost", "sans-serif"],
         inter: ["Inter", "sans-serif"],
       },
+      backgroundImage: {
+        "hero-pattern": "url('/assets/hero-image.png')",
+      },
     },
   },
   plugins: [],
