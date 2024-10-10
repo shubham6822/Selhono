@@ -10,9 +10,9 @@ export default function Brands() {
                 <Image src="/assets/uon.svg" alt='brand1' width={200} height={100} />
                 <Image src="/assets/F.svg" alt='brand1' width={200} height={70} />
             </div>
-            <div className='flex flex-col items-center gap-4 mt-36'>
+            <div className='flex flex-col items-center gap-8 mt-36'>
                 <h1 className='text-6xl text-[#292F36] m-0'>Follow Our Projects</h1>
-                <p className=' text-2xl font-inter  text-center w-4/6 text-[#4D5053] m-0 '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente sit illum nam similique, explicabo consectetur facilis possimus eius delectus asperiores?</p>
+                <p className=' text-2xl font-inter  text-center w-4/6 text-[#4D5053] m-0 '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente sit illum nam similique, explicabo consectetur facilis possimus eius delectus asperiores</p>
             </div>
         </div>
     )

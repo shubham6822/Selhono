@@ -1,4 +1,5 @@
 import Brands from '@/components/Brands'
+import Exprince from '@/components/Exprince'
 import Hero from '@/components/Hero'
 import Hero2 from '@/components/Hero2'
 import ProjectCard from '@/components/ProjectCard'
@@ -18,6 +19,7 @@ export default function page() {
         <ProjectCard url='/image/Rectangle6.png' />
         <ProjectCard url='/image/Rectangle7.png' />
       </div>
+      <Exprince />
     </div>
   )
 }
