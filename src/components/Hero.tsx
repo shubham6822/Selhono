@@ -22,7 +22,7 @@ export default function Hero() {
             <div className='w-[1158px] h-[225px] mt-24 grid grid-cols-3 text-center gap-[42px]'>
                 <div>
                     <h1 className='text-[#292F36] text-3xl'>Project Plan</h1>
-                    <p className='text-[#4D5053] font-inter text-lg mt-[20px] mb-[52px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, distinctio! Lorem ipsum dolor sit amet.</p>
+                    <p className='text-[#4D5053] font-inter text-lg mt-[20px] mb-8'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, distinctio! Lorem ipsum dolor sit amet.</p>
                     <div className='flex justify-center'>
                         <button className='bg-white border-none font-jost text-lg flex items-center gap-1 text-[#4D5053]'>Read more
                             <Image src="/assets/arrow-black.svg" alt='arrow-icon' width={13} height={15.14} />
@@ -31,7 +31,7 @@ export default function Hero() {
                 </div>
                 <div>
                     <h1 className='text-[#292F36] text-3xl'>Interior work</h1>
-                    <p className='text-[#4D5053] font-inter text-lg mt-[20px] mb-[52px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, distinctio! Lorem ipsum dolor sit amet.</p>
+                    <p className='text-[#4D5053] font-inter text-lg mt-[20px] mb-8'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, distinctio! Lorem ipsum dolor sit amet.</p>
                     <div className='flex justify-center'>
                         <button className='bg-white border-none font-jost text-lg flex items-center gap-1 text-[#4D5053]'>Read more
                             <Image src="/assets/arrow-black.svg" alt='arrow-icon' width={13} height={15.14} />
@@ -40,7 +40,7 @@ export default function Hero() {
                 </div>
                 <div>
                     <h1 className='text-[#292F36] text-3xl'>Realization </h1>
-                    <p className='text-[#4D5053] font-inter text-lg mt-[20px] mb-[52px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, distinctio! Lorem ipsum dolor sit amet.</p>
+                    <p className='text-[#4D5053] font-inter text-lg mt-[20px] mb-8'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, distinctio! Lorem ipsum dolor sit amet.</p>
                     <div className='flex justify-center'>
                         <button className='bg-white border-none font-jost text-lg flex items-center gap-1 text-[#4D5053]'>Read more
                             <Image src="/assets/arrow-black.svg" alt='arrow-icon' width={13} height={15.14} />
